@@ -25,8 +25,8 @@ dcd
 - 懂车帝发帖
 
 # 效果展示
-[7296697224817279526](https://api.dcarapi.com/motor/feoffline/ugcs/article.html?link_source=share&group_id=7296697224817279526)
-[7296813899880350235](https://api.dcarapi.com/motor/feoffline/ugcs/article.html?link_source=share&group_id=7296813899880350235)
+- [7296697224817279526](https://api.dcarapi.com/motor/feoffline/ugcs/article.html?link_source=share&group_id=7296697224817279526)
+- [7296813899880350235](https://api.dcarapi.com/motor/feoffline/ugcs/article.html?link_source=share&group_id=7296813899880350235)
 
 # 声明
 - qq交流群：916790180
