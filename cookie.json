@@ -1,0 +1,326 @@
+{
+  "cookies": [
+    {
+      "name": "x-jupiter-uuid",
+      "value": "1698915619015721",
+      "domain": "open.douyin.com",
+      "path": "/platform/oauth/connect",
+      "expires": 1699520419.074238,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "x-jupiter-uuid",
+      "value": "16989156664297056",
+      "domain": "mp.dcdapp.com",
+      "path": "/ugc",
+      "expires": 1699520466.486043,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "passport_csrf_token",
+      "value": "44dd546effa32d4d6d4bd63a3175684f",
+      "domain": ".toutiao.com",
+      "path": "/",
+      "expires": 1704099559.408287,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "s_v_web_id",
+      "value": "verify_logyglhq_88kFIXvX_45fK_49X8_BqEk_WjnYi0eWAjbb",
+      "domain": "mp.dcdapp.com",
+      "path": "/",
+      "expires": 1704099562,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csrf_session_id",
+      "value": "24026eb0ce0e83a322040e671273a285",
+      "domain": "open.douyin.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "passport_csrf_token",
+      "value": "9dee0b0a3b1481337ab08e673edae8ec",
+      "domain": ".douyin.com",
+      "path": "/",
+      "expires": 1704099619.778639,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "passport_csrf_token_default",
+      "value": "9dee0b0a3b1481337ab08e673edae8ec",
+      "domain": ".douyin.com",
+      "path": "/",
+      "expires": 1704099619.778671,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "passport_auth_status_ss",
+      "value": "04b6624191a9945a1f843e2ed48f7ede%2C",
+      "domain": ".toutiao.com",
+      "path": "/",
+      "expires": 1701507645.492404,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sso_uid_tt_ss",
+      "value": "fed9d6a3207c543af3046b739d1cfd8b",
+      "domain": ".toutiao.com",
+      "path": "/",
+      "expires": 1704099645.492428,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "toutiao_sso_user_ss",
+      "value": "f898e8f325a65d1cda142a8f720c534a",
+      "domain": ".toutiao.com",
+      "path": "/",
+      "expires": 1704099645.492444,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ssid_ucp_sso_v1",
+      "value": "1.0.0-KGJlNjExNjdhYzY0YjU0MjlmYzYwMWU2NGVhMTAyZmFiN2NmZmNmZDgKFgjTidGyw8zCARC9yo2qBhivDjgIQCYaAmhsIiBmODk4ZThmMzI1YTY1ZDFjZGExNDJhOGY3MjBjNTM0YQ",
+      "domain": ".toutiao.com",
+      "path": "/",
+      "expires": 1704099645.492461,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "passport_csrf_token",
+      "value": "58f0cca3051eb76bb4ab66eb4084d89f",
+      "domain": ".dcdapp.com",
+      "path": "/",
+      "expires": 1704099645.727176,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "passport_csrf_token_default",
+      "value": "58f0cca3051eb76bb4ab66eb4084d89f",
+      "domain": ".dcdapp.com",
+      "path": "/",
+      "expires": 1704099645.727206,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "passport_auth_status",
+      "value": "9422582a5a85b023eef736c683ed8dd4%2C",
+      "domain": ".dcdapp.com",
+      "path": "/",
+      "expires": 1701507645.72722,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "passport_auth_status_ss",
+      "value": "9422582a5a85b023eef736c683ed8dd4%2C",
+      "domain": ".dcdapp.com",
+      "path": "/",
+      "expires": 1701507645.727232,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid_guard",
+      "value": "0d6f7fa4a45eec5d055d71f07ca2d192%7C1698915645%7C5184002%7CMon%2C+01-Jan-2024+09%3A00%3A47+GMT",
+      "domain": ".dcdapp.com",
+      "path": "/",
+      "expires": 1730019645.727245,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uid_tt",
+      "value": "efe9f4dc0c5c550480d60a118c1d769a",
+      "domain": ".dcdapp.com",
+      "path": "/",
+      "expires": 1704099647.727257,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uid_tt_ss",
+      "value": "efe9f4dc0c5c550480d60a118c1d769a",
+      "domain": ".dcdapp.com",
+      "path": "/",
+      "expires": 1704099647.727268,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid_tt",
+      "value": "0d6f7fa4a45eec5d055d71f07ca2d192",
+      "domain": ".dcdapp.com",
+      "path": "/",
+      "expires": 1704099647.727279,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sessionid",
+      "value": "0d6f7fa4a45eec5d055d71f07ca2d192",
+      "domain": ".dcdapp.com",
+      "path": "/",
+      "expires": 1704099647.72729,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sessionid_ss",
+      "value": "0d6f7fa4a45eec5d055d71f07ca2d192",
+      "domain": ".dcdapp.com",
+      "path": "/",
+      "expires": 1704099647.727301,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sid_ucp_v1",
+      "value": "1.0.0-KDc1YTliOGM1MDJkZTY1MTg5YjQyNmY4MTEzMzFhYzE4MTA3NjJhMWIKFgjTidGyw8zCARC9yo2qBhivDjgIQCYaAmhsIiAwZDZmN2ZhNGE0NWVlYzVkMDU1ZDcxZjA3Y2EyZDE5Mg",
+      "domain": ".dcdapp.com",
+      "path": "/",
+      "expires": 1704099647.727312,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssid_ucp_v1",
+      "value": "1.0.0-KDc1YTliOGM1MDJkZTY1MTg5YjQyNmY4MTEzMzFhYzE4MTA3NjJhMWIKFgjTidGyw8zCARC9yo2qBhivDjgIQCYaAmhsIiAwZDZmN2ZhNGE0NWVlYzVkMDU1ZDcxZjA3Y2EyZDE5Mg",
+      "domain": ".dcdapp.com",
+      "path": "/",
+      "expires": 1704099647.727323,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid_tt_ss",
+      "value": "fed9d6a3207c543af3046b739d1cfd8b",
+      "domain": ".toutiao.com",
+      "path": "/",
+      "expires": 1704099647.910954,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sessionid_ss",
+      "value": "f898e8f325a65d1cda142a8f720c534a",
+      "domain": ".toutiao.com",
+      "path": "/",
+      "expires": 1704099647.910987,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://mp.dcdapp.com",
+      "localStorage": [
+        {
+          "name": "__tea_cache_first_2302",
+          "value": "1"
+        },
+        {
+          "name": "__tea_cache_tokens_2018",
+          "value": "{\"web_id\":\"7296786764449039899\",\"user_unique_id\":\"verify_logyglhq_88kFIXvX_45fK_49X8_BqEk_WjnYi0eWAjbb\",\"timestamp\":1698915571746,\"_type_\":\"default\"}"
+        },
+        {
+          "name": "__tea_cache_tokens_2302",
+          "value": "{\"web_id\":\"7296786714415367706\",\"user_unique_id\":\"7296786714415367706\",\"timestamp\":1698915644184,\"_type_\":\"default\"}"
+        },
+        {
+          "name": "__tea_cache_tokens_2562",
+          "value": "{\"web_id\":\"7296787177042642459\",\"user_unique_id\":\"motor_ugc_publish\",\"timestamp\":1698915667600,\"_type_\":\"default\"}"
+        },
+        {
+          "name": "SLARDARmotor_mp_account",
+          "value": "JTdCJTIydXNlcklkJTIyOiUyMmM2Njk2OGFmLWM4NjItNGI3MS04NzA3LTQyMWQ2MDZlZjI1YyUyMiwlMjJkZXZpY2VJZCUyMjolMjI0NzkwM2Q2Mi03NzYxLTQyODUtYTNiMi1iNWQ2YzM4NDc4MzIlMjIsJTIyZXhwaXJlcyUyMjoxNzA2NjkxNjQ2MDU0JTdE"
+        },
+        {
+          "name": "SLARDARweb_login_sdk",
+          "value": "{\"userId\":\"2a1cf54c-6fa4-edc3-0b4f-4506eb6b792b\",\"deviceId\":\"786a04c6-df18-4e38-b7f3-860538c8a821\"}"
+        },
+        {
+          "name": "SLARDARmotor_ugc_mp",
+          "value": "{\"userId\":\"d56a6cb2-656a-d0a3-4aae-f23158acd949\",\"deviceId\":\"ab20d60d-fd47-4153-919a-87164c2d32e3\"}"
+        },
+        {
+          "name": "__tea_cache_first_1839",
+          "value": "1"
+        },
+        {
+          "name": "__tea_cache_first_2018",
+          "value": "1"
+        },
+        {
+          "name": "SLARDARpassport_account_api",
+          "value": "{\"userId\":\"aa26d0b8-7e03-748b-50d2-00408cd57342\",\"deviceId\":\"064e3942-7e96-49de-9e80-f53a9749015d\"}"
+        },
+        {
+          "name": "SLARDARverify_center_cn",
+          "value": "{\"userId\":\"a4a56594-c01c-460e-05dd-cad58ec8a050\",\"deviceId\":\"6216e959-8435-451e-a3fe-c31634fb5792\"}"
+        },
+        {
+          "name": "__tea_cache_tokens_1839",
+          "value": "{\"web_id\":\"7296786726042371611\",\"user_unique_id\":\"7296786726042371611\",\"timestamp\":1698915646127,\"_type_\":\"default\"}"
+        },
+        {
+          "name": "",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "origin": "https://open.douyin.com",
+      "localStorage": [
+        {
+          "name": "SLARDARdouyin_open_auth",
+          "value": "JTdCJTIydXNlcklkJTIyOiUyMjljMzExOWRiLTQ4NTItNDA0OC05Y2E4LTRhOWQ1OTkzOGU3OSUyMiwlMjJkZXZpY2VJZCUyMjolMjJkMTE0MGQ4Yy0yZTliLTRhNjItOWM3NS04ZDQwMDA2ZTYwMjIlMjIsJTIyZXhwaXJlcyUyMjoxNzA2NjkxNjE5NDMzJTdE"
+        },
+        {
+          "name": "__tea_cache_tokens_1243",
+          "value": "{\"web_id\":\"7296786968577377801\",\"user_unique_id\":\"7296786968577377801\",\"timestamp\":1698915619387,\"_type_\":\"default\"}"
+        }
+      ]
+    }
+  ]
+}
